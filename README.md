@@ -13,4 +13,6 @@ Algorithm:-
 	b) Fast Exponentiation by Binary Method (Recursive Approach).
 
 	c) Fast Exponentiation Iterative Approach in which exponent is wriiten in sum of power of 2.
+
+	d) To find Fibonacci Numbers by Matrix and Fast Exponentiation O(logN).
  
