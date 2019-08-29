@@ -19,4 +19,6 @@ Algorithm:-
 	e) To find Fibonacci Numbers by Matrix and Fast Exponentiation O(logN).
 
 	f) Properties of Modular Arithmetic and Modular Multiplicative Inverse by Extended Euclidean Algorithm.
+
+	g) All Primes smaller than or equal to n using Sieve of Eratosthenes.
  
