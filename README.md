@@ -8,13 +8,15 @@ Algorithm:-
 
 1) Number Theory
 
-	a) Finding GCD by using Euclid's Algorithm.
+	a) Fast method to check whether a number is Prime or Not O(sqrt(n))..
 
-	b) Fast Exponentiation by Binary Method (Recursive Approach).
+	b) Finding GCD by using Euclid's Algorithm.
 
-	c) Fast Exponentiation Iterative Approach in which exponent is wriiten in sum of power of 2.
+	c) Fast Exponentiation by Binary Method (Recursive Approach).
 
-	d) To find Fibonacci Numbers by Matrix and Fast Exponentiation O(logN).
+	d) Fast Exponentiation Iterative Approach in which exponent is wriiten in sum of power of 2.
 
-	e) Properties of Modular Arithmetic and Modular Multiplicative Inverse by Extended Euclidean Algorithm.
+	e) To find Fibonacci Numbers by Matrix and Fast Exponentiation O(logN).
+
+	f) Properties of Modular Arithmetic and Modular Multiplicative Inverse by Extended Euclidean Algorithm.
  
