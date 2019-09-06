@@ -23,4 +23,6 @@ Algorithm:-
 	g) All Primes smaller than or equal to n using Sieve of Eratosthenes.
 
 	h) Total Numbers from 1 to N whose gcd with N is 1 by Euler Totient Function.
+
+	i) To compute Modular Inverse and nCr using Fermet's Little Theorem.
  
