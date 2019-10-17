@@ -7,17 +7,8 @@ int expo(int base,int exp)
         return 1;
     if (exp == 1)
         return base;
-
-    int result = expo(base, exp/2);
-    result *= result;
-
-    // if exponent is even value
-    if (exp % 2 == 0)
-        return result;
-
-    // if exponent is odd value
-    else
-        return (base * result);
+    double t = expo(base, exp/2);
+    return t * t * pow(base, exp%2);
 }
 
 int main()
